@@ -1,0 +1,27 @@
+body {
+    background-position: center;
+    background-size: cover;
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    background-color: #A0E7E5;
+    color:black;
+    padding: 15px;
+}
+
+#status, #object_status {
+    font-size: 18px;
+}
+
+#object_status{
+    background-color: #FBE7C6;
+}
+
+canvas {
+    box-shadow: 5px 5px 5px lightgrey;
+    border-radius: 10px;
+    margin-top: 180px;
+}
